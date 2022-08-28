@@ -1,0 +1,38 @@
+{
+  "name": "bill-saver",
+  "version": "1.0.0",
+  "description": "Project made for Hackathon HackUNT\n\nhttps://youtu.be/-0SxTfL6WPw",
+  "keywords": [
+    "finance",
+    "hedera",
+    "react"
+  ],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "axios": "0.26.1",
+    "firebase": "9.6.11",
+    "milligram": "1.4.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-hook-form": "7.30.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

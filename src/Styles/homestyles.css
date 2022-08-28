@@ -1,0 +1,29 @@
+.home {
+  display: flex;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  justify-content: center;
+}
+.home-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  justify-content: center;
+}
+.home-image {
+  width: 70rem;
+  object-fit: cover;
+  height: 40rem;
+  margin: 1rem;
+}
+.home-sec-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  justify-content: center;
+}
